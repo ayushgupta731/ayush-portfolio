@@ -6,8 +6,6 @@ import Loader from 'react-loaders'
 import AnimatedLetters from '../AnimatedLetters'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
  
-import DrawSVGPlugin from 'gsap-trial/DrawSVGPlugin'
-
 import{ Link,  NavLink } from 'react-router-dom'
 
 import LogoSub1 from '../../assets/images/logo1.png'
