@@ -2,7 +2,6 @@
  import { Link } from 'react-router-dom'
 import Loader from 'react-loaders'
 import LogoTitle from '../../assets/images/ayush.png'
- import Logo from './Logo'
  import './index.scss';
 import AnimatedLetters from '../AnimatedLetters';
 
@@ -55,7 +54,6 @@ const Home = () => {
                 <h2> Frontend - Backend Developer / Coder  </h2>
                 <Link to = "/contact" className='flat-button'> CONTACT ME </Link>
             </div>
-            <Logo />
         </div>
          <Loader type="pacman" />
          </>
